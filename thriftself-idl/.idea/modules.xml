@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../thriftself-client/thriftself-client.iml" filepath="$PROJECT_DIR$/../thriftself-client/thriftself-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thriftself-idl.iml" filepath="$PROJECT_DIR$/thriftself-idl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../thriftself-service/thriftself-service.iml" filepath="$PROJECT_DIR$/../thriftself-service/thriftself-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../thriftself-util/thriftself-util.iml" filepath="$PROJECT_DIR$/../thriftself-util/thriftself-util.iml" />
+    </modules>
+  </component>
+</project>
