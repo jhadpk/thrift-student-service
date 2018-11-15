@@ -176,3 +176,10 @@ validator.iml
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+thriftself-client/src/main/resources/
+thriftself-client/src/test/
+thriftself-idl/src/test/
+thriftself-service/conf-templates/
+thriftself-service/src/test/
+thriftself-util/src/main/resources/
+thriftself-util/src/test/
